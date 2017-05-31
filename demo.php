@@ -1,0 +1,1 @@
+<label><img src="./code.php" onclick="javascript:this.src='./code.php?tm='+Math.random();" width="200" height="100" /></label>
